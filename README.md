@@ -22,8 +22,6 @@
 
 <br>
 
-<p>Visite a página <a href="#">aqui</a> ou siga as instruções abaixo para rodar localmente:</p>
-
 <h4>Instalando o projeto:</h4>
 
 1- Clonando o repositório: `git clone https://github.com/viquiiz/angular-playstation-store.git`
