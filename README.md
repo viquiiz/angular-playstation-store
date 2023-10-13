@@ -11,7 +11,7 @@
 </div>
 
 
-<p align="justify">Este é um projeto que foi desenvolvido como parte do Santander Bootcamp 2023 - Fullstack Java+Angular. O objetivo deste projeto foi de recriar a homepage da PlayStation Store aplicando conceitos de componentização de componentes. Modifiquei o projeto original para ficar mais parecido com a atual página da PlayStation Store.</p>
+<p align="justify">Este é um projeto que foi desenvolvido como parte do Santander Bootcamp 2023 - Fullstack Java+Angular. O objetivo deste projeto foi de recriar a homepage da PlayStation Store aplicando conceitos de componentização. Modifiquei o projeto original para ficar mais parecido com a atual página da PlayStation Store.</p>
 
 <br>
 
