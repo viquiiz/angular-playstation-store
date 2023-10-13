@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto PlayStation Store com Angular </h1>
+ <h1 align="center"> Projeto PlayStation Store com Angular </h1>
 
 <div align="center">
 
@@ -32,6 +32,6 @@
 
 <h4>Rodando o projeto:</h4>
 
-1- `ng serve`
+1- Iniciando um servidor local: `ng serve`
 
 2- Acessar no navegador: `http://localhost:4200`
