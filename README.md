@@ -1,4 +1,4 @@
- <h1 align="center"> Projeto PlayStation Store com Angular </h1>
+ <h1 align="center"> Angular PlayStation Store Clone </h1>
 
 <div align="center">
 
@@ -13,25 +13,27 @@
 
 <p align="justify">Este é um projeto que foi desenvolvido como parte do Santander Bootcamp 2023 - Fullstack Java+Angular. O objetivo deste projeto foi de recriar a homepage da PlayStation Store aplicando conceitos de componentização. Modifiquei o projeto original para ficar mais parecido com a atual página da PlayStation Store.</p>
 
+<p align="justify">This is a project that was developed as part of "Santander Bootcamp 2023 - Fullstack Java+Angular". The objective was to recreate the PlayStation Store homepage by applying componentization concepts. I modified the original project to be more similar to the current PlayStation Store page.</p>
+
 <br>
 
 <div align="center">
     <img alt="Gif preview do projeto" height="380" src="./src/assets/gif-site-pronto.gif">
-    <p>Visualização do projeto no navegador</p>
+    <p>Browser preview</p>
 </div>
 
 <br>
 
-<h4>Instalando o projeto:</h4>
+<h4>Install</h4>
 
-1- Clonando o repositório: `git clone https://github.com/viquiiz/angular-playstation-store.git`
+1- Clonar o repositório / clone the repository: `git clone https://github.com/viquiiz/angular-playstation-store.git`
 
-2- Instalando o Angular: `npm install -g @angular/cli`
+2- Instalar o Angular / install Angular: `npm install -g @angular/cli`
 
-3- Instalando dependências: `npm install`
+3- Instalar dependências / install dependencies: `npm install`
 
-<h4>Rodando o projeto:</h4>
+<h4>Run</h4>
 
-1- Iniciando um servidor local: `ng serve`
+1- Iniciar um servidor local / Start local server: `ng serve`
 
-2- Acessar no navegador: `http://localhost:4200`
+2- Acessar no navegador / open in browser: `http://localhost:4200`
